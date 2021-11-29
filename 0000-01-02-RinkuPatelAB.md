@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our slide!"
 ---
-Your text
+"Change the heading"
 Use the left arrow to go back!
